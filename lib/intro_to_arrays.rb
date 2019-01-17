@@ -8,5 +8,6 @@ end
 
 def first_element(array, element)
   @taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
+   my_first_element = first_element(@taylor_swift)
 end
   
