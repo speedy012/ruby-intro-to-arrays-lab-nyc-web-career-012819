@@ -21,5 +21,6 @@ def last_element(my_last_element)
   my_last_element = @taylor_swift[-1]
 end
 
+def first_element_with_arrays_methods
   
   
