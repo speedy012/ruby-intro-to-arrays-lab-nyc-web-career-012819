@@ -11,5 +11,7 @@ def first_element(my_first_element)
    my_first_element = @taylor_swift[0]
 end
 
-def third_element()
+def third_element(my_third_element)
+  @taylor_swift = ["Welcome to New
+  
   
